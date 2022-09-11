@@ -1,3 +1,6 @@
-Following up on step 6: Add some text content. 
-...unsure of what text content to add, as that step is extremely vague.
-Hoping that this classifies as adding "some text content". Crossing my fingers!
+What is a directory, and what is its relationship to files?
+  A directory is the nesting of a folder in a hierarchical "tree" with a single root that branches off into related groups of content; the hierarchy also     describes the location of the files within the folder, the files are located in the parent directory which is under the parent to the child of directory. 
+How are VCSs useful?
+  VSCs (Version Control Systems) are useful because they act as a way to remember all the changes you have made; you can track changes over time, revert to a previous version of your work, as well as collaborate and share with associated parties. 
+Do you have a favorite artistic medium? Why is it your favorite?
+  I do not have a favorite artistic medium!
