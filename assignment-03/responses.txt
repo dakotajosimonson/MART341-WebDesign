@@ -1,0 +1,13 @@
+This is some text
+
+What is the relationship between an IP address and the DNS?
+
+- The relationship between an IP address and the DNS is that the DNS translates the domain name to a specific IP address.
+
+What is a cookie?
+
+- A cookie is what websites use to remember who you are.
+
+What are the three essential parts of a URL?
+
+- The three essential parts of a URL are the protocol, a domain, and the paths.
