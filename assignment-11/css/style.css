@@ -1,0 +1,59 @@
+#header{
+    background-image: url("../images/bluejeans.JPG");
+}
+
+#header-two{
+    background-image: url("../images/dreamers.JPG");
+}
+
+#header-three{
+    background-image: url("../images/skyblue.JPG");
+}
+
+h1{
+    color: #72a1c2;
+    font-family: Lobster;
+    font-size: 350px;
+    letter-spacing: 0.2em;
+}
+
+#title:hover{
+    letter-spacing: 0.5em;
+    font-weight: 700;
+    color: #597c9c;
+}
+
+.titleBorder{
+    height: 200px;
+    background-color: white;
+    color: white;
+}
+
+.titleBorder:hover{
+    background-color: #e0ecfc;
+    color: #72a1c2;
+    text-indent: 11em;
+    font-family: Cedarville;
+
+  }
+
+  .subtitle{
+      padding-top: 35px;
+      font-size: 50px;
+      margin: auto;
+  }
+
+.content-paragraph{
+    margin: auto;
+    color: #0f2038;
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 1050px;
+    font-family: RobotoSlab;
+}
+
+.content-paragraph:first-line{
+    font-size: 60px;
+    font-family: Cedarville;
+    line-height: 80px;
+}

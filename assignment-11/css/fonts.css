@@ -1,0 +1,17 @@
+/* This is the file, "fonts.css." */
+@font-face {
+    font-family: 'Cedarville';
+    src: url('../fonts/CedarvilleCursive-Regular.ttf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'Lobster';
+    src: url('../fonts/Lobster-Regular.ttf') format('truetype');
+    font-weight: normal;
+ }
+
+ @font-face {
+   font-family: 'Roboto';
+   src: url('../fonts/RobotoSlab-Medium.ttf') format('truetype');
+   font-style: normal;
+}
